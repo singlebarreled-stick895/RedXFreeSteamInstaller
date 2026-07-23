@@ -1,0 +1,256 @@
+{
+  "3241660": {
+    "name": "R.E.P.O.",
+    "version": "v0.3.1 - v0.3.2",
+    "working": 1,
+    "short_description": "R.E.P.O. is a co-op horror game where physics-based interactions and teamwork are the key to surviving terrifying missions.",
+    "release_date": "26 February 2024",
+    "developers": [
+      "semiwork"
+    ],
+    "publishers": [
+      "semiwork"
+    ],
+    "genres": [
+      "Horror",
+      "Action",
+      "Co-op"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial_price_cents": 999,
+      "final_price_cents": 999,
+      "discount_percent": 0,
+      "final_price_formatted": "$9.99"
+    }
+  },
+  "1966720": {
+    "name": "Lethal Company",
+    "version": "v72 - v73",
+    "working": 1,
+    "short_description": "A co-op horror about scavenging at abandoned moons to sell scrap to the Company.",
+    "release_date": "Oct 23, 2023",
+    "developers": [
+      "Zeekerss"
+    ],
+    "publishers": [
+      "Zeekerss"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial_price_cents": 999,
+      "final_price_cents": 749,
+      "discount_percent": 25,
+      "final_price_formatted": "$7.49"
+    }
+  },
+  "3527290": {
+    "name": "PEAK",
+    "version": "v1.51.a",
+    "working": 1,
+    "short_description": "PEAK is a co-op climbing game where the slightest mistake can spell your doom.",
+    "release_date": "16 June 2025",
+    "developers": [
+      "Team PEAK"
+    ],
+    "publishers": [
+      "Aggro Crab",
+      "Landfall"
+    ],
+    "genres": [
+      "Adventure",
+      "Action",
+      "Co-op"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial_price_cents": 399,
+      "final_price_cents": 399,
+      "discount_percent": 0,
+      "final_price_formatted": "$3.99"
+    }
+  },
+  "2794590": {
+    "name": "Scam Line",
+    "version": "Build 16012026",
+    "working": 1,
+    "short_description": "Scam Line is a 4–8 player social deception game where your party will face different challenges. Become a liar, a manipulator, a cheater, or find your own path to victory",
+    "release_date": "10 January 2026",
+    "developers": [
+      "RavenJm"
+    ],
+    "publishers": [
+      "RavenJm"
+    ],
+    "genres": [
+      "Indie",
+      "Multiplayer",
+      "Social Deduction",
+      "PvP",
+      "Co-op"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial_price_cents": 499,
+      "final_price_cents": 449,
+      "discount_percent": 10,
+      "final_price_formatted": "$4.49"
+    }
+  },
+  "105600": {
+    "name": "Terraria",
+    "version": "1.4.4.9",
+    "working": 0,
+    "short_description": "Terraria is an action-adventure sandbox game where you dig, fight, explore and build in a vibrant 2D world filled with treasures, monsters, and secrets.",
+    "release_date": "16 May 2011",
+    "developers": [
+      "Re-Logic"
+    ],
+    "publishers": [
+      "Re-Logic"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial_price_cents": 999,
+      "final_price_cents": 999,
+      "discount_percent": 0,
+      "final_price_formatted": "$9.99"
+    }
+  },
+  "2625420": {
+    "name": "Drive Beyond Horizons",
+    "version": "Build 31102025",
+    "working": 1,
+    "short_description": "Drive Beyond Horizons is an open-world driving adventure where you explore dynamic landscapes, customize vehicles, and tackle challenges solo or with friends in Early Access development.",
+    "release_date": "24 March 2025",
+    "developers": [
+      "Drive Beyond Horizons",
+      "Santor Games",
+      "Tacty Studio"
+    ],
+    "publishers": [
+      "Tacty Studio",
+      "Santor Games"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Racing",
+      "Simulation",
+      "Early Access",
+      "Multiplayer"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial_price_cents": 2499,
+      "final_price_cents": 2499,
+      "discount_percent": 0,
+      "final_price_formatted": "$24.99"
+    }
+  },
+  "1284190": {
+    "name": "The Planet Crafter",
+    "version": "Build 19112025",
+    "working": 1,
+    "short_description": "The Planet Crafter is an open-world survival and terraforming game where you transform a hostile planet into a habitable world by gathering resources, building machines, and changing the ecosystem.",
+    "release_date": "10 April 2024",
+    "developers": [
+      "Miju Games"
+    ],
+    "publishers": [
+      "Miju Games"
+    ],
+    "genres": [
+      "Adventure",
+      "Survival",
+      "Sandbox",
+      "Simulation"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial_price_cents": 2399,
+      "final_price_cents": 2399,
+      "discount_percent": 0,
+      "final_price_formatted": "$23.99"
+    }
+  },
+  "2881650": {
+    "name": "Content Warning",
+    "version": "v1.17.b",
+    "working": 0,
+    "short_description": "Film your friends doing scary things to become SpookTube famous.",
+    "release_date": "1 Apr, 2024",
+    "developers": [
+      "Skog",
+      "Zorro",
+      "Wilnyl",
+      "Philip",
+      "thePetHen"
+    ],
+    "publishers": [
+      "Landfall Publishing"
+    ],
+    "genres": [
+      "Horror",
+      "Action",
+      "Co-op"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "price_overview": {
+      "currency": "USD",
+      "initial_price_cents": 799,
+      "final_price_cents": 799,
+      "discount_percent": 0,
+      "final_price_formatted": "$7.99"
+    }
+  }
+}
